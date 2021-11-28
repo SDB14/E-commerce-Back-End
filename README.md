@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Description](#description)
-* [Installation](#installation)
 * [Usage](#usage)
 * [Tests](#tests)
 
@@ -12,11 +11,6 @@
 AS A manager at an internet retail company, I WANT a back end for my e-commerce website that uses the latest technologies, SO THAT my company can compete with other 
 e-commerce companies
 
-
-## Installation
-Open with integrated terminal and type node index.js
-
-https://watch.screencastify.com/v/5tStxnfVgX8g5eLD5CPP
 
 ## Usage
 GIVEN a functional Express.js API, WHEN I add my database name, MySQL username, and MySQL password to an environment variable file, THEN I am able to connect to a 
